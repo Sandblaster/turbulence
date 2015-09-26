@@ -1,7 +1,7 @@
-# turbulence
+# Turbulence
 A free website template by Xevion,
 
-Features:
+# Features:
 Bootstrap js/css
 Font-Awesome css
 More Soon
